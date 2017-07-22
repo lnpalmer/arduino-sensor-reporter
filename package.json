@@ -1,0 +1,23 @@
+{
+  "name": "arduino-sensor-reporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lnpalmer/arduino-sensor-reporter.git"
+  },
+  "author": "Lukas Palmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lnpalmer/arduino-sensor-reporter/issues"
+  },
+  "homepage": "https://github.com/lnpalmer/arduino-sensor-reporter#readme"
+}
