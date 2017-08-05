@@ -29,6 +29,8 @@ function transmitOutput() {
 
 function registerOutput(value, timestamp) {
 
+  console.log(value);
+
   sensorSession.push({ value, timestamp });
 
 }
